@@ -3,8 +3,7 @@ YooPhCoiN Core integration/staging tree
 
 [![Build Status]
 
-http://YooPhCoin.tk
-
+https://github.com/yoophglup/yoophcoin/
 What is YooPhCoiN?
 ----------------
 
@@ -15,7 +14,7 @@ out collectively by the network. YooPhCoiN Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the YooPhCoiN Core software, see http://www.YooPhCoin.tk (not registered as of yet)
+the YooPhCoiN Core software, see https://github.com/yoophglup/yoophcoin/
 
 License
 -------
